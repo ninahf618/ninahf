@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/c70d3c05-91e5-49b6-9771-01cae61f13b7" alt="math gif" width="400">
 </p>
 
-- 📫 How to reach me **nfukami@uwaterloo.ca**
+- 📫 How to reach me **nifukami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
