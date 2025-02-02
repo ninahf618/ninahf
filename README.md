@@ -3,7 +3,7 @@
 
 <!-- Add a fun GIF -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c70d3c05-91e5-49b6-9771-01cae61f13b7" alt="math gif" height="100" width="100">
+  <img src="https://github.com/user-attachments/assets/c70d3c05-91e5-49b6-9771-01cae61f13b7" alt="math gif" height="200" width="200">
 </p>
 
 - 📫 How to reach me **nifukami@gmail.com**
