@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ninah!</h1>
-<h3 align="center">A passionate Honours Math student from the University of Waterloo!</h3>
+<h3 align="center">A passionate 1B Honours Mathematics student from the University of Waterloo!</h3>
 
 <!-- Add a fun GIF -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c70d3c05-91e5-49b6-9771-01cae61f13b7" alt="math gif" width="400">
+  <img src="https://github.com/user-attachments/assets/c70d3c05-91e5-49b6-9771-01cae61f13b7" alt="math gif" height="100" width="100">
 </p>
 
 - 📫 How to reach me **nifukami@gmail.com**
@@ -35,10 +35,10 @@
 <!-- Add another fun section -->
 <h3 align="center">✨ Fun Facts About Me ✨</h3>
 <p align="center">
-  🎓 Currently studying at the University of Waterloo as an Honours Math Student! <br>
-  💡 I love exploring projects and finding ways to make people's lives better. <br>
-  🌈 Aspiring to combine math and technology for a better future. <br>
-  🖌️ Hobbies: Volleyball🏐, Piano🎹࣪, Pictures📷, Music🎧, Socializing🤝! <br>
+  🎓 Currently studying at the University of Waterloo as an Honours Mathematics Student! <br>
+  💡 I would love to make projects to make people's lives better. <br>
+  👀 I am interested in cyber security. Currently learning through TryHackMe! <br>
+  🖌️ Hobbies: Coding💻, Volleyball🏐, Music🎹࣪, Socializing🤝! <br>
 </p>
 
 <!-- Add another GIF at the bottom -->
