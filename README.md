@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ninah!</h1>
-<h3 align="center">A passionate 1B Honours Mathematics student from the University of Waterloo!</h3>
+<h3 align="center">I'm an Honours Mathematics student from the University of Waterloo! </h3>
 
 <!-- Add a fun GIF -->
 <p align="center">
@@ -35,10 +35,9 @@
 <!-- Add another fun section -->
 <h3 align="center">✨ Fun Facts About Me ✨</h3>
 <p align="center">
-  🎓 Currently studying at the University of Waterloo as an Honours Mathematics Student! <br>
-  💡 I would love to make projects to make people's lives better. <br>
-  👀 I am interested in cyber security. Currently learning through TryHackMe! <br>
-  🖌️ Hobbies: Coding💻, Volleyball🏐, Music🎹࣪, Socializing🤝! <br>
+  🎓 Currently studying at the University of Waterloo as an Honours Mathematics Student! I'm currently expanding my knowledge through TryHackme and Progate. <br>
+  👀 I am interested in cybersecurity. Currently learning through TryHackMe! <br>
+  🖌️ Hobbies: Learning💻, Volleyball🏐, Music🎹࣪, Socializing🤝! <br>
 </p>
 
 <!-- Add another GIF at the bottom -->
